@@ -1,0 +1,19 @@
+참여 ::
+	강*민
+	김*연
+	정호원
+
+내가 작성한 소스
+	DataBase(Package 전체)
+		+ MySQL 전체
+
+	JavaTEamProject(Package내 일부)
+		- CustomerServiceButton.java 일부
+		- HomeButton.java 일부
+		- loadingPanel.java 전체
+		- MainPage.java 일부
+		- MyPage.java 거의 전체
+		- OrderListButton.java 일부
+		- Project.java 일부
+		- Register.java 전체
+		- serviceReservation.java 전체
